@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Hirai404">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hirai404&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hirai404&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hirai404&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hirai404&layout=compact&langs_count=6&theme=monokai"/>
 
 </div>
 <div style="display: inline_block"><br>
